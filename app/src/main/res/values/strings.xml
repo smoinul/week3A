@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestingWeek3A</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="next">Next</string>
+    <string name="OK">It worked</string>
+    <string name="NOT_OK">It didnot work</string>
+    <string-array name="numList">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
